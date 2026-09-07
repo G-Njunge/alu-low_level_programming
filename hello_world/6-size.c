@@ -1,6 +1,10 @@
 #include <stdio.h>
 
-/* main code entry point*/
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	/* using zu as the sizeof data type*/
