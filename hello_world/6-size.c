@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+/* main code entry point*/
 int main(void)
 {
 	/* using zu as the sizeof data type*/
