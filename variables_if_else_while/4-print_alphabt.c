@@ -8,20 +8,19 @@
 
 int main(void)
 {
-        int i;
+	int i;
 
-        for (i = 'a'; i <= 'z'; i++)
+	for (i = 'a'; i <= 'z'; i++)
 	{
 		if (i == 'q' || i == 'e')
 		{	
 			continue;
-	
 		}
 		else
 		{
 			putchar(i);
 		}
 	}
-        putchar('\n');
-        return (0);
+	putchar('\n');
+	return (0);
 }
